@@ -1,0 +1,17 @@
+Student online tax application: / Student’s tax card Jukka
+“verokortti” mobile case
+VKV
+
+This is the (Swedish) presentation page for the iOS and Android apps on the Swedish Tax Administrations website;
+https://www.skatteverket.se/privat/sjalvservice/allaetjanster/skatteverketsapp.4.152108eb12c9f03824f8000924.html
+
+https://play.google.com/store/apps/details?id=se.rsv.ef.mobil.android
+
+-          target group students
+-          verohallinto will provide background information about sweden and oecd countries ? what type of mobile tax applications have already been implmented
+-          nghi can freely decide on how the user-interface would look like
+-          The user-interface and process should be very simple. Input of minimum information: yearly salary, student grant
+-          authentication
+-          nghi can sketch some different solutions. verohallinto can pick the best approach and nghi will do the prototype
+-          URL of exiting service:
+-          Milestones? Nhgi to make. Important: when mockups of 3 different options are ready (week 44)? Getting feedback from Jukka. When prototype is ready (week 48)
